@@ -28,7 +28,6 @@ sql/
 │  └─ TSQLV6 — Chapter 4 + Chapter 5 + FY Quarter (FULL ANSWERS).sql
 └─ Northwinds2024Student/
    └─ Individual_PPG_6_HW4_AmrinaQayyum_Northwinds.sql
-
 report/
 ├─ HW4_Report_AmrinaQayyum.pdf
 ├─ todo.png
