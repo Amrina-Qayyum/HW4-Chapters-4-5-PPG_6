@@ -61,16 +61,16 @@ Restore both backups in SSMS:
 
 ## Planning Evidence (To-Do + Gantt)
 Planning file included:
-- `planning/PPG_6_HW4_ToDo_Gantt_AmrinaQayyum.xlsx`
+- `todo.png`
+-  `gantt.png`
+
 
 This was shown in the MP4 walkthrough as project planning proof.
 
 ---
 
 ## Presentation (MP4) — YouTube Link
-Teacher requires video submission via **YouTube**.
-
-- **YouTube Video Link:** https://youtube.com/__________  *(paste your link here)*
+Requires video submission via **YouTube**.
 
 MP4 walkthrough includes:
 1) Intro (PPG_6 + HW4)  
