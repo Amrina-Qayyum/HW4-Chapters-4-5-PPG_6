@@ -43,7 +43,7 @@ Restore both backups in SSMS:
 - `TSQLV6.bak`
 - `Northwinds2024Student.bak`
 
-### 2) Run TSQLV6 (Testing)
+### 2) Run TSQLV6 (Testing + Practice)
 1. Open SSMS and select database **TSQLV6**
 2. Run:
    - `sql/TSQLV6/TSQLV6 — Chapter 4 + Chapter 5 + FY Quarter (FULL ANSWERS).sql`
@@ -76,7 +76,7 @@ MP4 walkthrough includes:
 1) Intro (PPG_6 + HW4)  
 2) Proposition (Northwinds)  
 3) To-Do + Gantt shown  
-4) Demo: TSQLV6 testing (short)  
+4) Demo: TSQLV6 testing 
 5) Demo: Northwinds final queries (main)  
 6) FY quarter output table  
 7) NACE + LLM statement  
@@ -95,4 +95,3 @@ MP4 walkthrough includes:
 
 ## LLM / AI Use Statement
 We took help from AI for our better understanding and when we faced problems. AI/LLM was used to support learning, debugging, and improving documentation clarity, while ensuring the final SQL solutions were executed and verified in the required databases.
-
