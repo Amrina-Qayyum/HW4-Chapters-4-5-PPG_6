@@ -21,11 +21,16 @@ This homework includes:
 Northwinds needs visibility into order activity and shipping cost (freight) trends over time. The business must understand how many orders are placed and how freight changes across time periods to plan operations and control shipping expenses. Using the Northwinds2024Student database, this project produces SQL reports using subqueries and table expressions, and includes a fiscal year quarter summary that reports total orders and total freight by federal FY quarter from newest to oldest.
 
 ---
+---
+
+## Repository Contents
+```text
 sql/
 ├─ TSQLV6/
 │  └─ TSQLV6 — Chapter 4 + Chapter 5 + FY Quarter (FULL ANSWERS).sql
 └─ Northwinds2024Student/
    └─ Individual_PPG_6_HW4_AmrinaQayyum_Northwinds.sql
+
 report/
 ├─ HW4_Report_AmrinaQayyum.pdf
 ├─ todo.png
