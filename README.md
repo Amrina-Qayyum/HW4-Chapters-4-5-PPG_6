@@ -34,6 +34,7 @@ report/
 ├─ HW4_Report_AmrinaQayyum.pdf
 ├─ todo.png
 └─ gantt.png
+```
 
 ## How to Run (SSMS)
 
