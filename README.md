@@ -24,16 +24,15 @@ Northwinds needs visibility into order activity and shipping cost (freight) tren
 
 ## Repository Contents
 sql/
-TSQLV6/
-TSQLV6 — Chapter 4 + Chapter 5 + FY Quarter (FULL ANSWERS).sql
-Northwinds2024Student/
-Individual_PPG_6_HW4_AmrinaQayyum_Northwinds.sql
+├─ TSQLV6/
+│  └─ TSQLV6 — Chapter 4 + Chapter 5 + FY Quarter (FULL ANSWERS).sql
+└─ Northwinds2024Student/
+   └─ Individual_PPG_6_HW4_AmrinaQayyum_Northwinds.sql
 
 report/
-HW4_Report_AmrinaQayyum.pdf
-todo.png
-gantt.png
-
+├─ HW4_Report_AmrinaQayyum.pdf
+├─ todo.png
+└─ gantt.png
 
 ---
 
